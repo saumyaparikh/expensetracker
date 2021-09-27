@@ -7,8 +7,14 @@ const DummyItems = [
   {
     id: "e1",
     title: "Car Insurance",
-    amount: "9456",
+    amount: "2500",
     date: new Date(2021, 4, 12),
+  },
+  {
+    id: "e2",
+    title: "Rent",
+    amount: "5000",
+    date: new Date(2021, 11, 12),
   },
   // {
   //   id: "e1",
